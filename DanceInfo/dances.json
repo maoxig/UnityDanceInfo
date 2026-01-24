@@ -107,7 +107,10 @@
     "0eb5979a": {
         "name": "MMD-ウミユリ海底譚.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Sega/Minmode/Seto",
+            "Camera:Sega/Minmode/Seto"
+        ],
         "infoUrl": "dances/0eb5979a.json",
         "updated": "2026-01-24"
     },
