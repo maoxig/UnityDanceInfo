@@ -450,58 +450,90 @@
     "2467a97e": {
         "name": "MMD-MELANCHOLIC.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Seto/Minmode/sega",
+            "Camera:Seto/Minmode/sega"
+        ],
         "infoUrl": "dances/2467a97e.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "c502d8bb": {
         "name": "MMD-MELT.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Sega/Seto/Minmode/Tao",
+            "Camera:Sega/Seto/Minmode/Tao"
+        ],
         "infoUrl": "dances/c502d8bb.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "513534ce": {
         "name": "MMD-METEOR.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Degica/Crypton Future Media/Marky",
+            "Camera:Marky"
+        ],
         "infoUrl": "dances/513534ce.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "5ec17b37": {
         "name": "MMD-MakeYouHappy.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:MakeYouHappy Camera",
+            "Camera:小涵_Han"
+        ],
         "infoUrl": "dances/5ec17b37.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "04388a09": {
         "name": "MMD-MarineDreamin.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:www.imarine-project.jp",
+            "Camera:MARUSU"
+        ],
         "infoUrl": "dances/04388a09.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a17945d3": {
         "name": "MMD-MusicMusic.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:リングイネ",
+            "Camera:美己"
+        ],
         "infoUrl": "dances/a17945d3.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "3ed6d699": {
         "name": "MMD-Mute-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Ai",
+            "Camera:Ai"
+        ],
         "infoUrl": "dances/3ed6d699.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "191327ca": {
         "name": "MMD-Mute-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Ai",
+            "Camera:Ai"
+        ],
         "infoUrl": "dances/191327ca.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "c386a97d": {
         "name": "MMD-NiceBody.unity3d",
@@ -516,163 +548,257 @@
     "eab22f23": {
         "name": "MMD-ODDS&ENDS.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/eab22f23.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "c3583f3a": {
         "name": "MMD-ONEOFFMIND.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:yurie",
+            "Camera:おうすすす"
+        ],
         "infoUrl": "dances/c3583f3a.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "1e4d9ef4": {
         "name": "MMD-PH-flower.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Music:p.h. by flower",
+            "Motion:Tarotaro",
+            "Camera:Sano_"
+        ],
         "infoUrl": "dances/1e4d9ef4.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ebbfcea4": {
         "name": "MMD-PatchworkStaccato.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Seto/Sega/Minmode/BakemonoWolf",
+            "Camera:MMD kip"
+        ],
         "infoUrl": "dances/ebbfcea4.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "b5aa81cf": {
         "name": "MMD-PizzicatoDrops.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:づなうじ",
+            "Camera:ぎがんと"
+        ],
         "infoUrl": "dances/b5aa81cf.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "cb3135a4": {
         "name": "MMD-PrimaryStar.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:はかり"
+        ],
         "infoUrl": "dances/cb3135a4.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "9e03d239": {
         "name": "MMD-RomeoAndCinderella.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Degica/Crypton Future Media/FlyingSpirits-P",
+            "Camera:Degica/Crypton Future Media/FlyingSpirits-P"
+        ],
         "infoUrl": "dances/9e03d239.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "e92365fd": {
         "name": "MMD-TETORIS-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:午前",
+            "Camera:水瀬ミナ/-minasemina-1182‬"
+        ],
         "infoUrl": "dances/e92365fd.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "4f7e88ae": {
         "name": "MMD-TETORIS-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:午前",
+            "Camera:水瀬ミナ/-minasemina-1182‬"
+        ],
         "infoUrl": "dances/4f7e88ae.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "2c15b848": {
         "name": "MMD-TellYourWorld.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Seto/Sega/Minmode",
+            "Camera:Seto/Sega/Minmode"
+        ],
         "infoUrl": "dances/2c15b848.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "9e15f2ab": {
         "name": "MMD-Teo.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:SEGA/Seto/Minmode",
+            "Camera:SEGA/Seto/Minmode"
+        ],
         "infoUrl": "dances/9e15f2ab.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ebd98207": {
         "name": "MMD-TickTrick.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Music:Tick-Trick by 可不",
+            "Motion:Rick",
+            "Camera:Siva"
+        ],
         "infoUrl": "dances/ebd98207.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "970226e1": {
         "name": "MMD-Turinglove-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:盗賊@つばきP",
+            "Camera:あるらうね"
+        ],
         "infoUrl": "dances/970226e1.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "cebafb04": {
         "name": "MMD-Turinglove-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:盗賊@つばきP",
+            "Camera:あるらうね"
+        ],
         "infoUrl": "dances/cebafb04.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "0ef5ca96": {
         "name": "MMD-Wave-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:moka"
+        ],
         "infoUrl": "dances/0ef5ca96.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "f638b0d4": {
         "name": "MMD-Wave-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:moka"
+        ],
         "infoUrl": "dances/f638b0d4.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "c5ccefdc": {
         "name": "MMD-Wave-3.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:moka"
+        ],
         "infoUrl": "dances/c5ccefdc.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "43048b8c": {
         "name": "MMD-XYZの魔法.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:hino様/足太ぺんた様",
+            "Camera:山田淀子"
+        ],
         "infoUrl": "dances/43048b8c.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "e3f15408": {
         "name": "MMD-うそつき.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:20yen",
+            "Camera:かつサンド"
+        ],
         "infoUrl": "dances/e3f15408.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "744cb903": {
         "name": "MMD-アイシテ .unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Soell/mino",
+            "Camera:瀧"
+        ],
         "infoUrl": "dances/744cb903.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "f5a03e8a": {
         "name": "MMD-アイドル新鋭隊-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:ぺんた/しろたび",
+            "Camera:しろたび"
+        ],
         "infoUrl": "dances/f5a03e8a.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "6bdbe31c": {
         "name": "MMD-アイドル新鋭隊-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:ぺんた/しろたび",
+            "Camera:しろたび"
+        ],
         "infoUrl": "dances/6bdbe31c.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "f091c180": {
         "name": "MMD-アニマル.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:0729robo",
+            "Camera:形無R"
+        ],
         "infoUrl": "dances/f091c180.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "0eb5979a": {
         "name": "MMD-ウミユリ海底譚.unity3d",
@@ -687,191 +813,315 @@
     "b0f6b4bf": {
         "name": "MMD-オツキミリサイタル-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:yurie",
+            "Camera:yurie"
+        ],
         "infoUrl": "dances/b0f6b4bf.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "23a7eb7e": {
         "name": "MMD-オツキミリサイタル-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:yurie",
+            "Camera:yurie"
+        ],
         "infoUrl": "dances/23a7eb7e.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "cfc9f556": {
         "name": "MMD-ジェヘナ.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "振付・踊り:神沢有紗様",
+            "Motion:づなうじ",
+            "Camera:弌朴Ichi-p"
+        ],
         "infoUrl": "dances/cfc9f556.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "8eb361d3": {
         "name": "MMD-スキスキ絶頂症-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:背中Ｐ様",
+            "Camera:背中Ｐ様"
+        ],
         "infoUrl": "dances/8eb361d3.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ca9cd27d": {
         "name": "MMD-スキスキ絶頂症-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:背中Ｐ様",
+            "Camera:背中Ｐ様"
+        ],
         "infoUrl": "dances/ca9cd27d.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "7c06f8ec": {
         "name": "MMD-スキスキ絶頂症-3.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:背中Ｐ様",
+            "Camera:背中Ｐ様"
+        ],
         "infoUrl": "dances/7c06f8ec.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a407e91e": {
         "name": "MMD-ドクヘビ.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Choreographer:natuse_sea",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/a407e91e.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "64ce5734": {
         "name": "MMD-パメラ-flower.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:きあおみようじ",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/64ce5734.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "3cf8c019": {
         "name": "MMD-ヒガン.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:楕円",
+            "Camera:10mm_"
+        ],
         "infoUrl": "dances/3cf8c019.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a651ab0d": {
         "name": "MMD-ヒミツ.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Music:MIMI/可不",
+            "Motion:楕円",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/a651ab0d.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "db9429f3": {
         "name": "MMD-ライアーダンス-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:moka"
+        ],
         "infoUrl": "dances/db9429f3.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "55cdab8f": {
         "name": "MMD-ライアーダンス-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:moka"
+        ],
         "infoUrl": "dances/55cdab8f.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "0a757bc3": {
         "name": "MMD-ライアーダンス-3.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:moka"
+        ],
         "infoUrl": "dances/0a757bc3.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a87d1269": {
         "name": "MMD-ロミオとシンデレラ.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Degica/Crypton Future Media/FlyingSpirits-P",
+            "Camera:Degica/Crypton Future Media/FlyingSpirits-P"
+        ],
         "infoUrl": "dances/a87d1269.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "c96c3093": {
         "name": "MMD-侵蝕.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:鯖味噌煮サンバ様",
+            "振付:あくた様",
+            "Camera:ひな様"
+        ],
         "infoUrl": "dances/c96c3093.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "4431f623": {
         "name": "MMD-可愛くてごめん.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Music:可愛くてごめん HoneyWorks",
+            "Motion:はかり",
+            "Camera:Shion Mina(@mia)"
+        ],
         "infoUrl": "dances/4431f623.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "0c1634e3": {
         "name": "MMD-君の彼女.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:たこはちP",
+            "Camera:胶龙兽"
+        ],
         "infoUrl": "dances/0c1634e3.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "32bfbe9c": {
         "name": "MMD-威風堂々.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:あやはち",
+            "Camera:ざっきぃ"
+        ],
         "infoUrl": "dances/32bfbe9c.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "9c3df327": {
         "name": "MMD-寄明月.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Nivsha/紫嘉儿",
+            "Camera:Nivsha"
+        ],
         "infoUrl": "dances/9c3df327.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "4bca9571": {
         "name": "MMD-幸せになれる隠しコマンドがあるらしい.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Rick",
+            "Camera:ゼ ロ 底迪"
+        ],
         "infoUrl": "dances/4bca9571.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "bdd91fc4": {
         "name": "MMD-恋愛デコレー.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:たこはちＰ",
+            "Camera:胶龙兽"
+        ],
         "infoUrl": "dances/bdd91fc4.json",
+        "updated": "2026-01-24",
+        "comment": ""
+    },
+    "2743aee6": {
+        "name": "MMD-恋愛デコレート.unity3d",
+        "author": "Xenophon",
+        "credits": [
+            "Motion:たこはちＰ",
+            "Camera:胶龙兽"
+        ],
+        "comment": "",
         "updated": "2026-01-24"
     },
     "3096ff93": {
         "name": "MMD-愛して愛して愛して-1.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/3096ff93.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "8c2bde43": {
         "name": "MMD-愛して愛して愛して-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/8c2bde43.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "12761e52": {
         "name": "MMD-愛して愛して愛して-3.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/12761e52.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "39f843ad": {
         "name": "MMD-我的悲伤是水做的.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Music:洛天依",
+            "Motion:泠鸢yousa官方团队",
+            "Camera:胶龙兽"
+        ],
         "infoUrl": "dances/39f843ad.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "05a298ae": {
         "name": "MMD-疑心暗鬼.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:曇＠のあき",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/05a298ae.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "f01008c2": {
         "name": "MMD-皆大欢喜-卜逻desu.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:卜逻desu",
+            "Camera:卜逻desu"
+        ],
         "infoUrl": "dances/f01008c2.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "8eb1ecc6": {
         "name": "MMD-絶え間なく藍色-1.unity3d",
@@ -883,37 +1133,58 @@
     "98ddc58f": {
         "name": "MMD-絶え間なく藍色-2.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:シガー",
+            "振り付け：ぽるし",
+            "Camera:鷹羽はるひ"
+        ],
         "infoUrl": "dances/98ddc58f.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "3bd665e3": {
         "name": "MMD-脳内革命ガール.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:SEGA/Seto",
+            "Camera:SEGA/Seto"
+        ],
         "infoUrl": "dances/3bd665e3.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "3ea24726": {
         "name": "MMD-響喜乱舞.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:小怪兽粉刷月球/Ueki·YGi",
+            "Camera:鬼瞳様"
+        ],
         "infoUrl": "dances/3ea24726.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "03a9c690": {
         "name": "Motion-DualCombat-Ayano.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:MMDCdrique",
+            "Camera:MMDCdrique"
+        ],
         "infoUrl": "dances/03a9c690.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ef90350d": {
         "name": "Motion-DualCombat-Mina.unity3d",
         "author": "Xenophon",
-        "credits": [],
+        "credits": [
+            "Motion:MMDCdrique",
+            "Camera:MMDCdrique"
+        ],
         "infoUrl": "dances/ef90350d.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "d60023c4": {
         "name": "MMD-(Not) A Devil.unity3d",
