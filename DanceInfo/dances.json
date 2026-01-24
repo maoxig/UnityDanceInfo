@@ -139,7 +139,6 @@
             "Motion:デュラン",
             "Camera:かごるま(仮)"
         ],
-        "comment": "",
         "updated": "2026-01-24"
     },
     "21d85dca": {
@@ -444,7 +443,6 @@
             "Motion:むよむよ",
             "Camera:鷹羽はるひ"
         ],
-        "comment": "",
         "updated": "2026-01-24"
     },
     "2467a97e": {
@@ -455,8 +453,7 @@
             "Camera:Seto/Minmode/sega"
         ],
         "infoUrl": "dances/2467a97e.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "c502d8bb": {
         "name": "MMD-MELT.unity3d",
@@ -466,8 +463,7 @@
             "Camera:Sega/Seto/Minmode/Tao"
         ],
         "infoUrl": "dances/c502d8bb.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "513534ce": {
         "name": "MMD-METEOR.unity3d",
@@ -477,8 +473,7 @@
             "Camera:Marky"
         ],
         "infoUrl": "dances/513534ce.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "5ec17b37": {
         "name": "MMD-MakeYouHappy.unity3d",
@@ -488,8 +483,7 @@
             "Camera:小涵_Han"
         ],
         "infoUrl": "dances/5ec17b37.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "04388a09": {
         "name": "MMD-MarineDreamin.unity3d",
@@ -499,8 +493,7 @@
             "Camera:MARUSU"
         ],
         "infoUrl": "dances/04388a09.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a17945d3": {
         "name": "MMD-MusicMusic.unity3d",
@@ -510,8 +503,7 @@
             "Camera:美己"
         ],
         "infoUrl": "dances/a17945d3.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "3ed6d699": {
         "name": "MMD-Mute-1.unity3d",
@@ -521,8 +513,7 @@
             "Camera:Ai"
         ],
         "infoUrl": "dances/3ed6d699.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "191327ca": {
         "name": "MMD-Mute-2.unity3d",
@@ -532,8 +523,7 @@
             "Camera:Ai"
         ],
         "infoUrl": "dances/191327ca.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "c386a97d": {
         "name": "MMD-NiceBody.unity3d",
@@ -553,8 +543,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/eab22f23.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "c3583f3a": {
         "name": "MMD-ONEOFFMIND.unity3d",
@@ -564,8 +553,7 @@
             "Camera:おうすすす"
         ],
         "infoUrl": "dances/c3583f3a.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "1e4d9ef4": {
         "name": "MMD-PH-flower.unity3d",
@@ -576,8 +564,7 @@
             "Camera:Sano_"
         ],
         "infoUrl": "dances/1e4d9ef4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ebbfcea4": {
         "name": "MMD-PatchworkStaccato.unity3d",
@@ -587,8 +574,7 @@
             "Camera:MMD kip"
         ],
         "infoUrl": "dances/ebbfcea4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "b5aa81cf": {
         "name": "MMD-PizzicatoDrops.unity3d",
@@ -598,8 +584,7 @@
             "Camera:ぎがんと"
         ],
         "infoUrl": "dances/b5aa81cf.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "cb3135a4": {
         "name": "MMD-PrimaryStar.unity3d",
@@ -609,8 +594,7 @@
             "Camera:はかり"
         ],
         "infoUrl": "dances/cb3135a4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "9e03d239": {
         "name": "MMD-RomeoAndCinderella.unity3d",
@@ -620,8 +604,7 @@
             "Camera:Degica/Crypton Future Media/FlyingSpirits-P"
         ],
         "infoUrl": "dances/9e03d239.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "e92365fd": {
         "name": "MMD-TETORIS-1.unity3d",
@@ -631,8 +614,7 @@
             "Camera:水瀬ミナ/-minasemina-1182‬"
         ],
         "infoUrl": "dances/e92365fd.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "4f7e88ae": {
         "name": "MMD-TETORIS-2.unity3d",
@@ -642,8 +624,7 @@
             "Camera:水瀬ミナ/-minasemina-1182‬"
         ],
         "infoUrl": "dances/4f7e88ae.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "2c15b848": {
         "name": "MMD-TellYourWorld.unity3d",
@@ -653,8 +634,7 @@
             "Camera:Seto/Sega/Minmode"
         ],
         "infoUrl": "dances/2c15b848.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "9e15f2ab": {
         "name": "MMD-Teo.unity3d",
@@ -664,8 +644,7 @@
             "Camera:SEGA/Seto/Minmode"
         ],
         "infoUrl": "dances/9e15f2ab.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ebd98207": {
         "name": "MMD-TickTrick.unity3d",
@@ -676,8 +655,7 @@
             "Camera:Siva"
         ],
         "infoUrl": "dances/ebd98207.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "970226e1": {
         "name": "MMD-Turinglove-1.unity3d",
@@ -687,8 +665,7 @@
             "Camera:あるらうね"
         ],
         "infoUrl": "dances/970226e1.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "cebafb04": {
         "name": "MMD-Turinglove-2.unity3d",
@@ -698,8 +675,7 @@
             "Camera:あるらうね"
         ],
         "infoUrl": "dances/cebafb04.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "0ef5ca96": {
         "name": "MMD-Wave-1.unity3d",
@@ -709,8 +685,7 @@
             "Camera:moka"
         ],
         "infoUrl": "dances/0ef5ca96.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "f638b0d4": {
         "name": "MMD-Wave-2.unity3d",
@@ -720,8 +695,7 @@
             "Camera:moka"
         ],
         "infoUrl": "dances/f638b0d4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "c5ccefdc": {
         "name": "MMD-Wave-3.unity3d",
@@ -731,8 +705,7 @@
             "Camera:moka"
         ],
         "infoUrl": "dances/c5ccefdc.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "43048b8c": {
         "name": "MMD-XYZの魔法.unity3d",
@@ -742,8 +715,7 @@
             "Camera:山田淀子"
         ],
         "infoUrl": "dances/43048b8c.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "e3f15408": {
         "name": "MMD-うそつき.unity3d",
@@ -753,8 +725,7 @@
             "Camera:かつサンド"
         ],
         "infoUrl": "dances/e3f15408.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "744cb903": {
         "name": "MMD-アイシテ .unity3d",
@@ -764,8 +735,7 @@
             "Camera:瀧"
         ],
         "infoUrl": "dances/744cb903.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "f5a03e8a": {
         "name": "MMD-アイドル新鋭隊-1.unity3d",
@@ -775,8 +745,7 @@
             "Camera:しろたび"
         ],
         "infoUrl": "dances/f5a03e8a.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "6bdbe31c": {
         "name": "MMD-アイドル新鋭隊-2.unity3d",
@@ -786,8 +755,7 @@
             "Camera:しろたび"
         ],
         "infoUrl": "dances/6bdbe31c.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "f091c180": {
         "name": "MMD-アニマル.unity3d",
@@ -797,8 +765,7 @@
             "Camera:形無R"
         ],
         "infoUrl": "dances/f091c180.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "0eb5979a": {
         "name": "MMD-ウミユリ海底譚.unity3d",
@@ -818,8 +785,7 @@
             "Camera:yurie"
         ],
         "infoUrl": "dances/b0f6b4bf.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "23a7eb7e": {
         "name": "MMD-オツキミリサイタル-2.unity3d",
@@ -829,8 +795,7 @@
             "Camera:yurie"
         ],
         "infoUrl": "dances/23a7eb7e.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "cfc9f556": {
         "name": "MMD-ジェヘナ.unity3d",
@@ -841,8 +806,7 @@
             "Camera:弌朴Ichi-p"
         ],
         "infoUrl": "dances/cfc9f556.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "8eb361d3": {
         "name": "MMD-スキスキ絶頂症-1.unity3d",
@@ -852,8 +816,7 @@
             "Camera:背中Ｐ様"
         ],
         "infoUrl": "dances/8eb361d3.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ca9cd27d": {
         "name": "MMD-スキスキ絶頂症-2.unity3d",
@@ -863,8 +826,7 @@
             "Camera:背中Ｐ様"
         ],
         "infoUrl": "dances/ca9cd27d.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "7c06f8ec": {
         "name": "MMD-スキスキ絶頂症-3.unity3d",
@@ -874,8 +836,7 @@
             "Camera:背中Ｐ様"
         ],
         "infoUrl": "dances/7c06f8ec.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a407e91e": {
         "name": "MMD-ドクヘビ.unity3d",
@@ -886,8 +847,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/a407e91e.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "64ce5734": {
         "name": "MMD-パメラ-flower.unity3d",
@@ -897,8 +857,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/64ce5734.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "3cf8c019": {
         "name": "MMD-ヒガン.unity3d",
@@ -908,8 +867,7 @@
             "Camera:10mm_"
         ],
         "infoUrl": "dances/3cf8c019.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a651ab0d": {
         "name": "MMD-ヒミツ.unity3d",
@@ -920,8 +878,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/a651ab0d.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "db9429f3": {
         "name": "MMD-ライアーダンス-1.unity3d",
@@ -931,8 +888,7 @@
             "Camera:moka"
         ],
         "infoUrl": "dances/db9429f3.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "55cdab8f": {
         "name": "MMD-ライアーダンス-2.unity3d",
@@ -942,8 +898,7 @@
             "Camera:moka"
         ],
         "infoUrl": "dances/55cdab8f.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "0a757bc3": {
         "name": "MMD-ライアーダンス-3.unity3d",
@@ -953,8 +908,7 @@
             "Camera:moka"
         ],
         "infoUrl": "dances/0a757bc3.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a87d1269": {
         "name": "MMD-ロミオとシンデレラ.unity3d",
@@ -964,8 +918,7 @@
             "Camera:Degica/Crypton Future Media/FlyingSpirits-P"
         ],
         "infoUrl": "dances/a87d1269.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "c96c3093": {
         "name": "MMD-侵蝕.unity3d",
@@ -976,8 +929,7 @@
             "Camera:ひな様"
         ],
         "infoUrl": "dances/c96c3093.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "4431f623": {
         "name": "MMD-可愛くてごめん.unity3d",
@@ -988,8 +940,7 @@
             "Camera:Shion Mina(@mia)"
         ],
         "infoUrl": "dances/4431f623.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "0c1634e3": {
         "name": "MMD-君の彼女.unity3d",
@@ -999,8 +950,7 @@
             "Camera:胶龙兽"
         ],
         "infoUrl": "dances/0c1634e3.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "32bfbe9c": {
         "name": "MMD-威風堂々.unity3d",
@@ -1010,8 +960,7 @@
             "Camera:ざっきぃ"
         ],
         "infoUrl": "dances/32bfbe9c.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "9c3df327": {
         "name": "MMD-寄明月.unity3d",
@@ -1021,8 +970,7 @@
             "Camera:Nivsha"
         ],
         "infoUrl": "dances/9c3df327.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "4bca9571": {
         "name": "MMD-幸せになれる隠しコマンドがあるらしい.unity3d",
@@ -1032,8 +980,7 @@
             "Camera:ゼ ロ 底迪"
         ],
         "infoUrl": "dances/4bca9571.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "bdd91fc4": {
         "name": "MMD-恋愛デコレー.unity3d",
@@ -1043,8 +990,7 @@
             "Camera:胶龙兽"
         ],
         "infoUrl": "dances/bdd91fc4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "2743aee6": {
         "name": "MMD-恋愛デコレート.unity3d",
@@ -1053,7 +999,6 @@
             "Motion:たこはちＰ",
             "Camera:胶龙兽"
         ],
-        "comment": "",
         "updated": "2026-01-24"
     },
     "3096ff93": {
@@ -1064,8 +1009,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/3096ff93.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "8c2bde43": {
         "name": "MMD-愛して愛して愛して-2.unity3d",
@@ -1075,8 +1019,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/8c2bde43.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "12761e52": {
         "name": "MMD-愛して愛して愛して-3.unity3d",
@@ -1086,8 +1029,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/12761e52.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "39f843ad": {
         "name": "MMD-我的悲伤是水做的.unity3d",
@@ -1098,8 +1040,7 @@
             "Camera:胶龙兽"
         ],
         "infoUrl": "dances/39f843ad.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "05a298ae": {
         "name": "MMD-疑心暗鬼.unity3d",
@@ -1109,8 +1050,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/05a298ae.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "f01008c2": {
         "name": "MMD-皆大欢喜-卜逻desu.unity3d",
@@ -1120,8 +1060,7 @@
             "Camera:卜逻desu"
         ],
         "infoUrl": "dances/f01008c2.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "8eb1ecc6": {
         "name": "MMD-絶え間なく藍色-1.unity3d",
@@ -1139,8 +1078,7 @@
             "Camera:鷹羽はるひ"
         ],
         "infoUrl": "dances/98ddc58f.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "3bd665e3": {
         "name": "MMD-脳内革命ガール.unity3d",
@@ -1150,8 +1088,7 @@
             "Camera:SEGA/Seto"
         ],
         "infoUrl": "dances/3bd665e3.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "3ea24726": {
         "name": "MMD-響喜乱舞.unity3d",
@@ -1161,8 +1098,7 @@
             "Camera:鬼瞳様"
         ],
         "infoUrl": "dances/3ea24726.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "03a9c690": {
         "name": "Motion-DualCombat-Ayano.unity3d",
@@ -1172,8 +1108,7 @@
             "Camera:MMDCdrique"
         ],
         "infoUrl": "dances/03a9c690.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ef90350d": {
         "name": "Motion-DualCombat-Mina.unity3d",
@@ -1183,8 +1118,7 @@
             "Camera:MMDCdrique"
         ],
         "infoUrl": "dances/ef90350d.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "d60023c4": {
         "name": "MMD-(Not) A Devil.unity3d",
@@ -1194,8 +1128,7 @@
             "Camera:Nikisa San"
         ],
         "infoUrl": "dances/d60023c4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "0be15707": {
         "name": "MMD-Ageage Again.unity3d",
@@ -1205,8 +1138,7 @@
             "Camera:かごるま"
         ],
         "infoUrl": "dances/0be15707.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "6ca04e70": {
         "name": "MMD-AipaiDanceHall-HimeTanaka.unity3d",
@@ -1215,7 +1147,6 @@
             "Motion:HIMEHINA",
             "Camera:水瀬ミナ"
         ],
-        "comment": "",
         "updated": "2026-01-24"
     },
     "8a61bc54": {
@@ -1225,7 +1156,6 @@
             "Motion:HIMEHINA",
             "Camera:水瀬ミナ"
         ],
-        "comment": "",
         "updated": "2026-01-24"
     },
     "c99d2e82": {
@@ -1236,8 +1166,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/c99d2e82.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "7432f0b9": {
         "name": "MMD-Booo!.unity3d",
@@ -1247,8 +1176,7 @@
             "Camera:Nov19"
         ],
         "infoUrl": "dances/7432f0b9.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "1e4a9877": {
         "name": "MMD-Buriki no Dance.unity3d",
@@ -1258,8 +1186,7 @@
             "Camera:覚醒拓也(KT)"
         ],
         "infoUrl": "dances/1e4a9877.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "b44ae41d": {
         "name": "MMD-CH4NGE.unity3d",
@@ -1269,8 +1196,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/b44ae41d.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "841d4301": {
         "name": "MMD-Cinema.unity3d",
@@ -1280,8 +1206,7 @@
             "Camera:猫型dog"
         ],
         "infoUrl": "dances/841d4301.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a1fa1efc": {
         "name": "MMD-Confessions of a Rotten Girl.unity3d",
@@ -1291,8 +1216,7 @@
             "Camera:Nikisa San"
         ],
         "infoUrl": "dances/a1fa1efc.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "f149bbbf": {
         "name": "MMD-Conqueror.unity3d",
@@ -1302,8 +1226,7 @@
             "Camera:Torii Is Weird"
         ],
         "infoUrl": "dances/f149bbbf.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "cc587bac": {
         "name": "MMD-Cynical Night Plan.unity3d",
@@ -1313,8 +1236,7 @@
             "Camera:ゆきねこ"
         ],
         "infoUrl": "dances/cc587bac.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "28d98166": {
         "name": "MMD-Daidaidaidaidaikirai-Miku.unity3d",
@@ -1324,8 +1246,7 @@
             "Camera:ガガガ"
         ],
         "infoUrl": "dances/28d98166.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "4e6447b2": {
         "name": "MMD-Daidaidaidaidaikirai-Teto.unity3d",
@@ -1335,8 +1256,7 @@
             "Camera:ガガガ"
         ],
         "infoUrl": "dances/4e6447b2.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "930335c0": {
         "name": "MMD-Darling Dance.unity3d",
@@ -1346,8 +1266,7 @@
             "Camera:Rinrain"
         ],
         "infoUrl": "dances/930335c0.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "54785551": {
         "name": "MMD-DeepBlueTown.unity3d",
@@ -1357,8 +1276,7 @@
             "Camera: ゆきねこ"
         ],
         "infoUrl": "dances/54785551.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "9cd4d301": {
         "name": "MMD-Donut Hole.unity3d",
@@ -1368,8 +1286,7 @@
             "Camera:petite philosophie"
         ],
         "infoUrl": "dances/9cd4d301.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "559577d3": {
         "name": "MMD-ECHO.unity3d",
@@ -1379,8 +1296,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/559577d3.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "9d276ba9": {
         "name": "MMD-Envy Baby.unity3d",
@@ -1390,8 +1306,7 @@
             "Camera:Mizuha"
         ],
         "infoUrl": "dances/9d276ba9.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "5ff1acee": {
         "name": "MMD-GETCHA!.unity3d",
@@ -1401,8 +1316,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/5ff1acee.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a016e78e": {
         "name": "MMD-Ghost Rule.unity3d",
@@ -1412,8 +1326,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/a016e78e.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "e4567e57": {
         "name": "MMD-Gimme×Gimme.unity3d",
@@ -1423,8 +1336,7 @@
             "Camera:ノン"
         ],
         "infoUrl": "dances/e4567e57.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "014a182d": {
         "name": "MMD-Girls.unity3d",
@@ -1434,8 +1346,7 @@
             "Camera:Re DELTA"
         ],
         "infoUrl": "dances/014a182d.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "baa7fcc8": {
         "name": "MMD-HIASOBI.unity3d",
@@ -1445,8 +1356,7 @@
             "Camera:FixEll_MMD"
         ],
         "infoUrl": "dances/baa7fcc8.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "d432f20d": {
         "name": "MMD-HIBANA.unity3d",
@@ -1456,8 +1366,7 @@
             "Camera:Re DELTA"
         ],
         "infoUrl": "dances/d432f20d.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "d8ab55c4": {
         "name": "MMD-HIBIKASE.unity3d",
@@ -1467,8 +1376,7 @@
             "Camera:kreifish"
         ],
         "infoUrl": "dances/d8ab55c4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "02a21ebd": {
         "name": "MMD-Happy Halloween.unity3d",
@@ -1478,8 +1386,7 @@
             "Camera:BLue"
         ],
         "infoUrl": "dances/02a21ebd.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a6ec4f96": {
         "name": "MMD-Hi-Fi Raver.unity3d",
@@ -1489,8 +1396,7 @@
             "Camera:妮谷丹"
         ],
         "infoUrl": "dances/a6ec4f96.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "38c4235b": {
         "name": "MMD-JUMP UP.unity3d",
@@ -1500,8 +1406,7 @@
             "Camera:千一"
         ],
         "infoUrl": "dances/38c4235b.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "dd1c1042": {
         "name": "MMD-KING.unity3d",
@@ -1511,8 +1416,7 @@
             "Camera:ミレノア"
         ],
         "infoUrl": "dances/dd1c1042.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "41320d21": {
         "name": "MMD-Kimagure Mercy-Haku.unity3d",
@@ -1522,8 +1426,7 @@
             "Camera:永远赤红的幼月"
         ],
         "infoUrl": "dances/41320d21.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "942e59b4": {
         "name": "MMD-Kimagure Mercy-Luka.unity3d",
@@ -1533,8 +1436,7 @@
             "Camera:永远赤红的幼月"
         ],
         "infoUrl": "dances/942e59b4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a0f8b938": {
         "name": "MMD-Kimagure Mercy-Miku.unity3d",
@@ -1544,8 +1446,7 @@
             "Camera:永远赤红的幼月"
         ],
         "infoUrl": "dances/a0f8b938.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "b112b6ad": {
         "name": "MMD-Kimagure Mercy-Rin.unity3d",
@@ -1555,8 +1456,7 @@
             "Camera:永远赤红的幼月"
         ],
         "infoUrl": "dances/b112b6ad.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "af56201b": {
         "name": "MMD-Kimagure Mercy-Teto.unity3d",
@@ -1566,8 +1466,7 @@
             "Camera:永远赤红的幼月"
         ],
         "infoUrl": "dances/af56201b.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "30ae760c": {
         "name": "MMD-Konton Boogie Emu.unity3d",
@@ -1577,8 +1476,7 @@
             "Camera:SEGA/anonRipper"
         ],
         "infoUrl": "dances/30ae760c.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a9da34e9": {
         "name": "MMD-Konton Boogie Kaito.unity3d",
@@ -1588,8 +1486,7 @@
             "Camera:SEGA/anonRipper"
         ],
         "infoUrl": "dances/a9da34e9.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "3e1f71d8": {
         "name": "MMD-Konton Boogie Nene.unity3d",
@@ -1599,8 +1496,7 @@
             "Camera:SEGA/anonRipper"
         ],
         "infoUrl": "dances/3e1f71d8.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "e4f62a99": {
         "name": "MMD-Konton Boogie Rui.unity3d",
@@ -1610,8 +1506,7 @@
             "Camera:SEGA/anonRipper"
         ],
         "infoUrl": "dances/e4f62a99.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "8600943d": {
         "name": "MMD-Konton Boogie Tsukasa.unity3d",
@@ -1621,8 +1516,7 @@
             "Camera:SEGA/anonRipper"
         ],
         "infoUrl": "dances/8600943d.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "d0d9908c": {
         "name": "MMD-LUVORATORRRRRY!.unity3d",
@@ -1632,8 +1526,7 @@
             "Camera:猫型dog"
         ],
         "infoUrl": "dances/d0d9908c.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "3911c2d4": {
         "name": "MMD-Lamb.unity3d",
@@ -1643,8 +1536,7 @@
             "Camera:びでおん"
         ],
         "infoUrl": "dances/3911c2d4.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "534ff215": {
         "name": "MMD-Liar Dancer.unity3d",
@@ -1654,8 +1546,7 @@
             "Camera:るーと"
         ],
         "infoUrl": "dances/534ff215.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "6ca9e75f": {
         "name": "MMD-Lost One's Weeping.unity3d",
@@ -1665,8 +1556,7 @@
             "Camera:ボカロ紅白歌合戦"
         ],
         "infoUrl": "dances/6ca9e75f.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "81544584": {
         "name": "MMD-Love Trial.unity3d",
@@ -1676,8 +1566,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/81544584.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "1982fa41": {
         "name": "MMD-M@GICAL☆CURE! LOVE SHOT!.unity3d",
@@ -1687,8 +1576,7 @@
             "Camera:Nikisa San"
         ],
         "infoUrl": "dances/1982fa41.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "99a47b60": {
         "name": "MMD-Marshall Maximizer.unity3d",
@@ -1698,8 +1586,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/99a47b60.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "35de6875": {
         "name": "MMD-Mellomelloid.unity3d",
@@ -1709,8 +1596,7 @@
             "Camera:たらど"
         ],
         "infoUrl": "dances/35de6875.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "bb46376c": {
         "name": "MMD-Non-breath oblige.unity3d",
@@ -1720,8 +1606,7 @@
             "Camera:そーちん"
         ],
         "infoUrl": "dances/bb46376c.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "84b722ce": {
         "name": "MMD-Onegai Darling.unity3d",
@@ -1731,8 +1616,7 @@
             "Camera:10million"
         ],
         "infoUrl": "dances/84b722ce.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "6968d95c": {
         "name": "MMD-Override.unity3d",
@@ -1742,8 +1626,7 @@
             "Camera:おナス"
         ],
         "infoUrl": "dances/6968d95c.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "99345ea8": {
         "name": "MMD-Phony.unity3d",
@@ -1753,8 +1636,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/99345ea8.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "671c622f": {
         "name": "MMD-PiNK CAT.unity3d",
@@ -1764,8 +1646,7 @@
             "Camera:びでおん"
         ],
         "infoUrl": "dances/671c622f.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "5446e95f": {
         "name": "MMD-ROKI-Mikito P.unity3d",
@@ -1775,8 +1656,7 @@
             "Camera:やまと"
         ],
         "infoUrl": "dances/5446e95f.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "44fb2955": {
         "name": "MMD-ROKI-RIN.unity3d",
@@ -1786,8 +1666,7 @@
             "Camera:やまと"
         ],
         "infoUrl": "dances/44fb2955.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ba240757": {
         "name": "MMD-ROKI.unity3d",
@@ -1797,8 +1676,7 @@
             "Camera:さく"
         ],
         "infoUrl": "dances/ba240757.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "bcedaab6": {
         "name": "MMD-Rabbit Hole.unity3d",
@@ -1808,8 +1686,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/bcedaab6.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "f1b005bf": {
         "name": "MMD-Reversible Campaign.unity3d",
@@ -1819,8 +1696,7 @@
             "Camera:DC-Mayu :D"
         ],
         "infoUrl": "dances/f1b005bf.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "c2d3aec0": {
         "name": "MMD-Rolling Girl.unity3d",
@@ -1830,8 +1706,7 @@
             "Camera:ぎょぎょ"
         ],
         "infoUrl": "dances/c2d3aec0.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "70636c5c": {
         "name": "MMD-SOS.unity3d",
@@ -1852,8 +1727,7 @@
             "Camera:東雲"
         ],
         "infoUrl": "dances/5c6da6a7.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "4b2f368f": {
         "name": "MMD-Telephone.unity3d",
@@ -1863,8 +1737,7 @@
             "Camera:めろくる"
         ],
         "infoUrl": "dances/4b2f368f.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "a522ac34": {
         "name": "MMD-Two Faced Lovers.unity3d",
@@ -1874,8 +1747,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/a522ac34.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "5178e179": {
         "name": "MMD-UNDEAD.unity3d",
@@ -1885,8 +1757,7 @@
             "Camera:蒼威"
         ],
         "infoUrl": "dances/5178e179.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "59c206e2": {
         "name": "MMD-Unknown Mother-Goose.unity3d",
@@ -1896,8 +1767,7 @@
             "Camera:のべ男"
         ],
         "infoUrl": "dances/59c206e2.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "d8fe1e19": {
         "name": "MMD-World is Mine.unity3d",
@@ -1907,8 +1777,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/d8fe1e19.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "0c52ba6a": {
         "name": "MMD-World's End Dance Hall-LUKA.unity3d",
@@ -1918,8 +1787,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/0c52ba6a.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "86bae726": {
         "name": "MMD-World's End Dance Hall-MIKU.unity3d",
@@ -1929,8 +1797,7 @@
             "Camera:Seto"
         ],
         "infoUrl": "dances/86bae726.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "16bd2c67": {
         "name": "MMD-[A]ddiction.unity3d",
@@ -1940,8 +1807,7 @@
             "Camera:維韜"
         ],
         "infoUrl": "dances/16bd2c67.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "551300a5": {
         "name": "MMD-summertime.unity3d",
@@ -1951,8 +1817,7 @@
             "Camera:-YaKiol-"
         ],
         "infoUrl": "dances/551300a5.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "3cf6bcbf": {
         "name": "MMD-いますぐ輪廻.unity3d",
@@ -1962,8 +1827,7 @@
             "Camera:桂花糕配西米露"
         ],
         "infoUrl": "dances/3cf6bcbf.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "e6ef5f87": {
         "name": "MMD-ザムザ.unity3d",
@@ -1973,8 +1837,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/e6ef5f87.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "829efa35": {
         "name": "MMD-シンデレラ (Giga First Night Remix).unity3d",
@@ -1984,8 +1847,7 @@
             "Camera:ひな"
         ],
         "infoUrl": "dances/829efa35.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "b649e5ad": {
         "name": "MMD-ハナタバ.unity3d",
@@ -1995,8 +1857,7 @@
             "Camera:絢姫"
         ],
         "infoUrl": "dances/b649e5ad.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ac3ce122": {
         "name": "MMD-ビビデバ.unity3d",
@@ -2006,8 +1867,7 @@
             "Camera:TK MMD"
         ],
         "infoUrl": "dances/ac3ce122.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "e43fd7c0": {
         "name": "MMD-プシ.unity3d",
@@ -2017,8 +1877,7 @@
             "Camera:水瀬ミナ"
         ],
         "infoUrl": "dances/e43fd7c0.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "df3a4a18": {
         "name": "MMD-モニタリング (Best Friend Remix).unity3d",
@@ -2028,8 +1887,7 @@
             "Camera:TK MMD"
         ],
         "infoUrl": "dances/df3a4a18.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "b8b92b3a": {
         "name": "MMD-モニタリング.unity3d",
@@ -2039,8 +1897,7 @@
             "Camera:木村まこと"
         ],
         "infoUrl": "dances/b8b92b3a.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ae210f7b": {
         "name": "MMD-乙女解剖.unity3d",
@@ -2050,8 +1907,7 @@
             "Camera:Bluemocha"
         ],
         "infoUrl": "dances/ae210f7b.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "224354cf": {
         "name": "MMD-好き！雪！本気マジック.unity3d",
@@ -2061,8 +1917,7 @@
             "Camera:///LiPer-_-SWA104///"
         ],
         "infoUrl": "dances/224354cf.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "86cefb7e": {
         "name": "MMD-妄想感傷代償連盟.unity3d",
@@ -2072,8 +1927,7 @@
             "Camera:fyucha"
         ],
         "infoUrl": "dances/86cefb7e.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ce5984c8": {
         "name": "MMD-混沌ブギ.unity3d",
@@ -2083,8 +1937,7 @@
             "Camera:Nikisa San"
         ],
         "infoUrl": "dances/ce5984c8.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "ea7601a1": {
         "name": "MMD-砂の惑星.unity3d",
@@ -2094,8 +1947,7 @@
             "Camera:くるみパン"
         ],
         "infoUrl": "dances/ea7601a1.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "8d897d47": {
         "name": "MMD-神っぽいな.unity3d",
@@ -2115,8 +1967,7 @@
             "Camera:アガちん"
         ],
         "infoUrl": "dances/8c239cfc.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "eea641a8": {
         "name": "MMD-虎視眈々-MIKU.unity3d",
@@ -2126,8 +1977,7 @@
             "Camera:アガちん"
         ],
         "infoUrl": "dances/eea641a8.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "f640bbc0": {
         "name": "MMD-虎視眈々-RIN.unity3d",
@@ -2137,8 +1987,7 @@
             "Camera:アガちん"
         ],
         "infoUrl": "dances/f640bbc0.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "0742a242": {
         "name": "MMD-踊.unity3d",
@@ -2148,8 +1997,7 @@
             "Camera:petite philosophie"
         ],
         "infoUrl": "dances/0742a242.json",
-        "updated": "2026-01-24",
-        "comment": ""
+        "updated": "2026-01-24"
     },
     "c7eb0835": {
         "name": "MMD-酔いどれ知らず.unity3d",
