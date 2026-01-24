@@ -132,6 +132,16 @@
         "infoUrl": "dances/ce5019f7.json",
         "updated": "2026-01-24"
     },
+    "01e652e1": {
+        "name": "MMD-Cherry Pop.unity3d",
+        "author": "VOCALOID",
+        "credits": [
+            "Motion:デュラン",
+            "Camera:かごるま(仮)"
+        ],
+        "comment": "",
+        "updated": "2026-01-24"
+    },
     "21d85dca": {
         "name": "MMD-1_6-OutOfTheGravity.unity3d",
         "author": "Xenophon",
@@ -425,6 +435,16 @@
             "Camera:鷹羽はるひ"
         ],
         "infoUrl": "dances/0f6a509a.json",
+        "updated": "2026-01-24"
+    },
+    "758b5dfe": {
+        "name": "MMD-LIMELIGHT-3.unity3d",
+        "author": "Xenophon",
+        "credits": [
+            "Motion:むよむよ",
+            "Camera:鷹羽はるひ"
+        ],
+        "comment": "",
         "updated": "2026-01-24"
     },
     "2467a97e": {
@@ -898,401 +918,649 @@
     "d60023c4": {
         "name": "MMD-(Not) A Devil.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Nikisa San",
+            "Camera:Nikisa San"
+        ],
         "infoUrl": "dances/d60023c4.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "0be15707": {
         "name": "MMD-Ageage Again.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:かごるま"
+        ],
         "infoUrl": "dances/0be15707.json",
+        "updated": "2026-01-24",
+        "comment": ""
+    },
+    "6ca04e70": {
+        "name": "MMD-AipaiDanceHall-HimeTanaka.unity3d",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:HIMEHINA",
+            "Camera:水瀬ミナ"
+        ],
+        "comment": "",
+        "updated": "2026-01-24"
+    },
+    "8a61bc54": {
+        "name": "MMD-AipaiDanceHall-HinaSuzuki.unity3d",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:HIMEHINA",
+            "Camera:水瀬ミナ"
+        ],
+        "comment": "",
         "updated": "2026-01-24"
     },
     "c99d2e82": {
         "name": "MMD-Beat Eater.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:みや",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/c99d2e82.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "7432f0b9": {
         "name": "MMD-Booo!.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:つん",
+            "Camera:Nov19"
+        ],
         "infoUrl": "dances/7432f0b9.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "1e4a9877": {
         "name": "MMD-Buriki no Dance.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:覚醒拓也(KT)"
+        ],
         "infoUrl": "dances/1e4a9877.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "b44ae41d": {
         "name": "MMD-CH4NGE.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/b44ae41d.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "841d4301": {
         "name": "MMD-Cinema.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:猫型dog"
+        ],
         "infoUrl": "dances/841d4301.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a1fa1efc": {
         "name": "MMD-Confessions of a Rotten Girl.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Nikisa San",
+            "Camera:Nikisa San"
+        ],
         "infoUrl": "dances/a1fa1efc.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "f149bbbf": {
         "name": "MMD-Conqueror.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:鈴木燐/Lise",
+            "Camera:Torii Is Weird"
+        ],
         "infoUrl": "dances/f149bbbf.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "cc587bac": {
         "name": "MMD-Cynical Night Plan.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:リングイネ",
+            "Camera:ゆきねこ"
+        ],
         "infoUrl": "dances/cc587bac.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "28d98166": {
         "name": "MMD-Daidaidaidaidaikirai-Miku.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:粉ふきスティック",
+            "Camera:ガガガ"
+        ],
         "infoUrl": "dances/28d98166.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "4e6447b2": {
         "name": "MMD-Daidaidaidaidaikirai-Teto.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:粉ふきスティック",
+            "Camera:ガガガ"
+        ],
         "infoUrl": "dances/4e6447b2.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "930335c0": {
         "name": "MMD-Darling Dance.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:Rinrain"
+        ],
         "infoUrl": "dances/930335c0.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "54785551": {
         "name": "MMD-DeepBlueTown.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:アイマリンプロジェクト",
+            "Camera: ゆきねこ"
+        ],
         "infoUrl": "dances/54785551.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "9cd4d301": {
         "name": "MMD-Donut Hole.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:あひる",
+            "Camera:petite philosophie"
+        ],
         "infoUrl": "dances/9cd4d301.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "559577d3": {
         "name": "MMD-ECHO.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:じゃがいも/ノン",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/559577d3.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "9d276ba9": {
         "name": "MMD-Envy Baby.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:ツノ",
+            "Camera:Mizuha"
+        ],
         "infoUrl": "dances/9d276ba9.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "5ff1acee": {
         "name": "MMD-GETCHA!.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:apr",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/5ff1acee.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a016e78e": {
         "name": "MMD-Ghost Rule.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/a016e78e.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "e4567e57": {
         "name": "MMD-Gimme×Gimme.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:シガー",
+            "Camera:ノン"
+        ],
         "infoUrl": "dances/e4567e57.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "014a182d": {
         "name": "MMD-Girls.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:曇＠のあき/盗賊@つばきP",
+            "Camera:Re DELTA"
+        ],
         "infoUrl": "dances/014a182d.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "baa7fcc8": {
         "name": "MMD-HIASOBI.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:FixEll_MMD"
+        ],
         "infoUrl": "dances/baa7fcc8.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "d432f20d": {
         "name": "MMD-HIBANA.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:ゲッツ/すぱにぃ/ノン",
+            "Camera:Re DELTA"
+        ],
         "infoUrl": "dances/d432f20d.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "d8ab55c4": {
         "name": "MMD-HIBIKASE.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:kreifish"
+        ],
         "infoUrl": "dances/d8ab55c4.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "02a21ebd": {
         "name": "MMD-Happy Halloween.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:しろたび",
+            "Camera:BLue"
+        ],
         "infoUrl": "dances/02a21ebd.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a6ec4f96": {
         "name": "MMD-Hi-Fi Raver.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:アガちん",
+            "Camera:妮谷丹"
+        ],
         "infoUrl": "dances/a6ec4f96.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "38c4235b": {
         "name": "MMD-JUMP UP.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:千一"
+        ],
         "infoUrl": "dances/38c4235b.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "dd1c1042": {
         "name": "MMD-KING.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:ミレノア"
+        ],
         "infoUrl": "dances/dd1c1042.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "41320d21": {
         "name": "MMD-Kimagure Mercy-Haku.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:永远赤红的幼月"
+        ],
         "infoUrl": "dances/41320d21.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "942e59b4": {
         "name": "MMD-Kimagure Mercy-Luka.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:永远赤红的幼月"
+        ],
         "infoUrl": "dances/942e59b4.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a0f8b938": {
         "name": "MMD-Kimagure Mercy-Miku.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:永远赤红的幼月"
+        ],
         "infoUrl": "dances/a0f8b938.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "b112b6ad": {
         "name": "MMD-Kimagure Mercy-Rin.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:永远赤红的幼月"
+        ],
         "infoUrl": "dances/b112b6ad.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "af56201b": {
         "name": "MMD-Kimagure Mercy-Teto.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:moka",
+            "Camera:永远赤红的幼月"
+        ],
         "infoUrl": "dances/af56201b.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "30ae760c": {
         "name": "MMD-Konton Boogie Emu.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:SEGA/anonRipper",
+            "Camera:SEGA/anonRipper"
+        ],
         "infoUrl": "dances/30ae760c.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a9da34e9": {
         "name": "MMD-Konton Boogie Kaito.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:SEGA/anonRipper",
+            "Camera:SEGA/anonRipper"
+        ],
         "infoUrl": "dances/a9da34e9.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "3e1f71d8": {
         "name": "MMD-Konton Boogie Nene.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:SEGA/anonRipper",
+            "Camera:SEGA/anonRipper"
+        ],
         "infoUrl": "dances/3e1f71d8.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "e4f62a99": {
         "name": "MMD-Konton Boogie Rui.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:SEGA/anonRipper",
+            "Camera:SEGA/anonRipper"
+        ],
         "infoUrl": "dances/e4f62a99.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "8600943d": {
         "name": "MMD-Konton Boogie Tsukasa.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:SEGA/anonRipper",
+            "Camera:SEGA/anonRipper"
+        ],
         "infoUrl": "dances/8600943d.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "d0d9908c": {
         "name": "MMD-LUVORATORRRRRY!.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:RareMetal",
+            "Camera:猫型dog"
+        ],
         "infoUrl": "dances/d0d9908c.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "3911c2d4": {
         "name": "MMD-Lamb.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:yurie",
+            "Camera:びでおん"
+        ],
         "infoUrl": "dances/3911c2d4.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "534ff215": {
         "name": "MMD-Liar Dancer.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:キリカ",
+            "Camera:るーと"
+        ],
         "infoUrl": "dances/534ff215.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "6ca9e75f": {
         "name": "MMD-Lost One's Weeping.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:ボカロ紅白歌合戦",
+            "Camera:ボカロ紅白歌合戦"
+        ],
         "infoUrl": "dances/6ca9e75f.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "81544584": {
         "name": "MMD-Love Trial.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/81544584.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "1982fa41": {
         "name": "MMD-M@GICAL☆CURE! LOVE SHOT!.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Nikisa San",
+            "Camera:Nikisa San"
+        ],
         "infoUrl": "dances/1982fa41.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "99a47b60": {
         "name": "MMD-Marshall Maximizer.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:P.I.P/ノン",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/99a47b60.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "35de6875": {
         "name": "MMD-Mellomelloid.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:午前",
+            "Camera:たらど"
+        ],
         "infoUrl": "dances/35de6875.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "bb46376c": {
         "name": "MMD-Non-breath oblige.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:そーちん",
+            "Camera:そーちん"
+        ],
         "infoUrl": "dances/bb46376c.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "84b722ce": {
         "name": "MMD-Onegai Darling.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:hino",
+            "Camera:10million"
+        ],
         "infoUrl": "dances/84b722ce.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "6968d95c": {
         "name": "MMD-Override.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:KAZUSA",
+            "Camera:おナス"
+        ],
         "infoUrl": "dances/6968d95c.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "99345ea8": {
         "name": "MMD-Phony.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:背中P",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/99345ea8.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "671c622f": {
         "name": "MMD-PiNK CAT.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:アガちん",
+            "Camera:びでおん"
+        ],
         "infoUrl": "dances/671c622f.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "5446e95f": {
         "name": "MMD-ROKI-Mikito P.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:やまと",
+            "Camera:やまと"
+        ],
         "infoUrl": "dances/5446e95f.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "44fb2955": {
         "name": "MMD-ROKI-RIN.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:やまと",
+            "Camera:やまと"
+        ],
         "infoUrl": "dances/44fb2955.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ba240757": {
         "name": "MMD-ROKI.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:やまと",
+            "Camera:さく"
+        ],
         "infoUrl": "dances/ba240757.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "bcedaab6": {
         "name": "MMD-Rabbit Hole.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/bcedaab6.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "f1b005bf": {
         "name": "MMD-Reversible Campaign.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:じゅんこだ",
+            "Camera:DC-Mayu :D"
+        ],
         "infoUrl": "dances/f1b005bf.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "c2d3aec0": {
         "name": "MMD-Rolling Girl.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:KAZUSA",
+            "Camera:ぎょぎょ"
+        ],
         "infoUrl": "dances/c2d3aec0.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "70636c5c": {
         "name": "MMD-SOS.unity3d",
@@ -1308,163 +1576,255 @@
     "5c6da6a7": {
         "name": "MMD-Sweet Devil (SuketchP rmx).unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:20yen",
+            "Camera:東雲"
+        ],
         "infoUrl": "dances/5c6da6a7.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "4b2f368f": {
         "name": "MMD-Telephone.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:めろくる",
+            "Camera:めろくる"
+        ],
         "infoUrl": "dances/4b2f368f.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "a522ac34": {
         "name": "MMD-Two Faced Lovers.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/a522ac34.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "5178e179": {
         "name": "MMD-UNDEAD.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:蒼威",
+            "Camera:蒼威"
+        ],
         "infoUrl": "dances/5178e179.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "59c206e2": {
         "name": "MMD-Unknown Mother-Goose.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:ゲッツ/すぱにぃ/ノン",
+            "Camera:のべ男"
+        ],
         "infoUrl": "dances/59c206e2.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "d8fe1e19": {
         "name": "MMD-World is Mine.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/d8fe1e19.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "0c52ba6a": {
         "name": "MMD-World's End Dance Hall-LUKA.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/0c52ba6a.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "86bae726": {
         "name": "MMD-World's End Dance Hall-MIKU.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
         "infoUrl": "dances/86bae726.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "16bd2c67": {
         "name": "MMD-[A]ddiction.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:hino",
+            "Camera:維韜"
+        ],
         "infoUrl": "dances/16bd2c67.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "551300a5": {
         "name": "MMD-summertime.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:闲羽zZZ",
+            "Camera:-YaKiol-"
+        ],
         "infoUrl": "dances/551300a5.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "3cf6bcbf": {
         "name": "MMD-いますぐ輪廻.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:桂花糕配西米露"
+        ],
         "infoUrl": "dances/3cf6bcbf.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "e6ef5f87": {
         "name": "MMD-ザムザ.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/e6ef5f87.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "829efa35": {
         "name": "MMD-シンデレラ (Giga First Night Remix).unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Pronxy",
+            "Camera:ひな"
+        ],
         "infoUrl": "dances/829efa35.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "b649e5ad": {
         "name": "MMD-ハナタバ.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:絢姫",
+            "Camera:絢姫"
+        ],
         "infoUrl": "dances/b649e5ad.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ac3ce122": {
         "name": "MMD-ビビデバ.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Taro²",
+            "Camera:TK MMD"
+        ],
         "infoUrl": "dances/ac3ce122.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "e43fd7c0": {
         "name": "MMD-プシ.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:寿司",
+            "Camera:水瀬ミナ"
+        ],
         "infoUrl": "dances/e43fd7c0.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "df3a4a18": {
         "name": "MMD-モニタリング (Best Friend Remix).unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:mobiusP",
+            "Camera:TK MMD"
+        ],
         "infoUrl": "dances/df3a4a18.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "b8b92b3a": {
         "name": "MMD-モニタリング.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:倉んべりぃ",
+            "Camera:木村まこと"
+        ],
         "infoUrl": "dances/b8b92b3a.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ae210f7b": {
         "name": "MMD-乙女解剖.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:yy/秋狐",
+            "Camera:Bluemocha"
+        ],
         "infoUrl": "dances/ae210f7b.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "224354cf": {
         "name": "MMD-好き！雪！本気マジック.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:hino/ノン",
+            "Camera:///LiPer-_-SWA104///"
+        ],
         "infoUrl": "dances/224354cf.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "86cefb7e": {
         "name": "MMD-妄想感傷代償連盟.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:アラタ解/fyucha",
+            "Camera:fyucha"
+        ],
         "infoUrl": "dances/86cefb7e.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ce5984c8": {
         "name": "MMD-混沌ブギ.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:Nikisa San",
+            "Camera:Nikisa San"
+        ],
         "infoUrl": "dances/ce5984c8.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "ea7601a1": {
         "name": "MMD-砂の惑星.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:moka/ノン",
+            "Camera:くるみパン"
+        ],
         "infoUrl": "dances/ea7601a1.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "8d897d47": {
         "name": "MMD-神っぽいな.unity3d",
@@ -1479,30 +1839,46 @@
     "8c239cfc": {
         "name": "MMD-虎視眈々-LUKA.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:アガちん",
+            "Camera:アガちん"
+        ],
         "infoUrl": "dances/8c239cfc.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "eea641a8": {
         "name": "MMD-虎視眈々-MIKU.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:アガちん",
+            "Camera:アガちん"
+        ],
         "infoUrl": "dances/eea641a8.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "f640bbc0": {
         "name": "MMD-虎視眈々-RIN.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:アガちん",
+            "Camera:アガちん"
+        ],
         "infoUrl": "dances/f640bbc0.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "0742a242": {
         "name": "MMD-踊.unity3d",
         "author": "Yongqisang",
-        "credits": [],
+        "credits": [
+            "Motion:こっちゃ",
+            "Camera:petite philosophie"
+        ],
         "infoUrl": "dances/0742a242.json",
-        "updated": "2026-01-24"
+        "updated": "2026-01-24",
+        "comment": ""
     },
     "c7eb0835": {
         "name": "MMD-酔いどれ知らず.unity3d",
