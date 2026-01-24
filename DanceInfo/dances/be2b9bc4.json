@@ -1,7 +1,10 @@
 {
     "name": "MMD-CarryMeOff-5.unity3d",
     "author": "Xenophon",
-    "credits": [],
+    "credits": [
+        "Motion:Moka",
+        "Camera:DG-RINER"
+    ],
     "comment": "",
     "updated": "2026-01-24"
 }

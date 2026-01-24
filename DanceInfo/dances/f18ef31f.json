@@ -1,7 +1,10 @@
 {
     "name": "MMD-CatchTheWave.unity3d",
     "author": "Xenophon",
-    "credits": [],
+    "credits": [
+        "Motion:Sega/Minmode/Seto",
+        "Camera:Sega/Minmode/Seto"
+    ],
     "comment": "",
     "updated": "2026-01-24"
 }

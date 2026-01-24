@@ -1,7 +1,10 @@
 {
     "name": "MMD-BlueStar.unity3d",
     "author": "Xenophon",
-    "credits": [],
+    "credits": [
+        "Motion:P.I.P",
+        "Camera:天音ゆき"
+    ],
     "comment": "",
     "updated": "2026-01-24"
 }

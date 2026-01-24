@@ -1,7 +1,11 @@
 {
     "name": "MMD-酔いどれ知らず.unity3d",
     "author": "Yongqisang",
-    "credits": [],
+    "credits": [
+        "Motion:Taro²様/M.Liang様",
+        "振付:ツナ様",
+        "Camera:水瀬ミナ様"
+    ],
     "comment": "",
     "updated": "2026-01-24"
 }
