@@ -11,6 +11,9 @@ def sort_dances(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as file:
         dances = json.load(file)
 
+    # Print the number of dances
+    print(f"Number of dances: {len(dances)}")
+
     # Sort the dances by author, then by name, then by hash
     sorted_dances = dict(sorted(
         dances.items(),
