@@ -65,6 +65,11 @@ class DanceManagerBackend:
     def save_db(self):
         """Save Master Database to JSON."""
         try:
+            # OPTIMIZATION: Remove empty comments to save space
+            for k in self.db_data:
+                if 'comment' in self.db_data[k] and not self.db_data[k]['comment']:
+                    del self.db_data[k]['comment']
+
             with open(self.db_file, "w", encoding="utf-8") as f:
                 json.dump(self.db_data, f, ensure_ascii=False, indent=4)
             return True
@@ -99,10 +104,10 @@ class DanceManagerBackend:
                 # New file found locally that isn't in DB -> Add it
                 new_count += 1
                 self.db_data[fhash] = {
-                    "name": fpath.name,
+                    "name": fpath.stem, # Optimize: use stem (no .unity3d)
                     "author": self._guess_author(fpath),
                     "credits": [],
-                    "comment": "",
+                    # Optimized: Don't init empty comment
                     "updated": datetime.now().strftime("%Y-%m-%d")
                 }
             else:
@@ -366,7 +371,7 @@ class DanceManagerApp:
         self.btn_cloud = ttk.Button(toolbar, text="☁ Check Cloud", command=self.manual_cloud_check)
         self.btn_cloud.pack(side="left", padx=2)
         
-        ttk.Label(toolbar, text="Search:").pack(side="left", padx=(15, 5))
+        ttk.Label(toolbar, text="Search(Name/Author):").pack(side="left", padx=(15, 5))
         self.var_search = tk.StringVar()
         self.var_search.trace("w", self.on_search)
         ttk.Entry(toolbar, textvariable=self.var_search, width=25).pack(side="left")
@@ -431,6 +436,11 @@ class DanceManagerApp:
         ttk.Label(frame, text="Credits (Lines):").pack(anchor="w")
         self.txt_credits = tk.Text(frame, height=6)
         self.txt_credits.pack(fill="x", pady=(0, 5))
+        
+        # Configure tag for placeholder/template
+        self.txt_credits.tag_configure("template", foreground="#888888", font=("", 9, "italic"))
+        # Bind to remove style on any key press
+        self.txt_credits.bind("<KeyPress>", lambda e: self.txt_credits.tag_remove("template", "1.0", "end"))
         
         ttk.Label(frame, text="Comment:").pack(anchor="w")
         self.txt_comment = tk.Text(frame, height=4)
@@ -553,7 +563,8 @@ class DanceManagerApp:
         items = []
         for h, fpath in self.backend.inventory.items():
             meta = self.backend.db_data.get(h, {})
-            name = meta.get("name", fpath.name)
+            # Use stem as fallback if name missing, to avoid extensions in display
+            name = meta.get("name", fpath.stem)
             auth = meta.get("author", "Unknown")
             
             if search:
@@ -618,12 +629,21 @@ class DanceManagerApp:
             h = self.selected_hashes[0]
             data = self.backend.db_data[h]
             
+            raw_name = data.get('name', '')
+            # Strip extension for editing convenience if present in old data
+            if raw_name.lower().endswith('.unity3d'):
+                raw_name = raw_name[:-8]
+
             self.lbl_editor_info.config(text=f"Editing: {data.get('name')} ({h})")
-            self.ent_name.insert(0, data.get('name', ''))
+            self.ent_name.insert(0, raw_name)
             self.ent_author.insert(0, data.get('author', ''))
             
             cr = data.get('credits', [])
-            if isinstance(cr, list): self.txt_credits.insert("1.0", "\n".join(cr))
+            if isinstance(cr, list) and cr:
+                self.txt_credits.insert("1.0", "\n".join(cr))
+            else:
+                # Empty credits -> Show template
+                self.txt_credits.insert("1.0", "Motion:\nCamera:", "template")
             
             self.txt_comment.insert("1.0", data.get('comment', ''))
             
@@ -643,6 +663,10 @@ class DanceManagerApp:
         is_batch = len(hashes) > 1
         
         new_name = self.ent_name.get().strip()
+        # Save Name without extension to save space
+        if new_name.lower().endswith('.unity3d'):
+             new_name = new_name[:-8]
+
         new_auth = self.ent_author.get().strip()
         new_cred = self.txt_credits.get("1.0", "end-1c").strip().split("\n")
         new_comm = self.txt_comment.get("1.0", "end-1c").strip()
@@ -659,7 +683,13 @@ class DanceManagerApp:
             
             if new_auth: data['author'] = new_auth
             if not skip_cred: data['credits'] = [x for x in new_cred if x]
-            if not skip_comm: data['comment'] = new_comm
+            
+            # Optimized comment storage: Don't save empty string
+            if not skip_comm: 
+                if new_comm:
+                    data['comment'] = new_comm
+                else:
+                    data.pop('comment', None)
             
             data['updated'] = datetime.now().strftime("%Y-%m-%d")
             

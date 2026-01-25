@@ -25,5 +25,5 @@ def sort_dances(input_file, output_file):
 
 if __name__ == "__main__":
     input_file = "DanceInfo/dances.json"
-    output_file = "DanceInfo/sorted_dances.json"
+    output_file = "DanceInfo/dances.json"
     sort_dances(input_file, output_file)
