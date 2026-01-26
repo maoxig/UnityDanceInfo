@@ -1954,110 +1954,152 @@
     "c64c07ad": {
         "name": "おしりのダンス",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:ハスキーP"
+        ],
+        "updated": "2026-01-26"
     },
     "d0a683d4": {
         "name": "さよならスーヴェニア_柊南",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Music:さよならスーヴェニア 柊南",
+            "Motion:すとろん様"
+        ],
+        "updated": "2026-01-26"
     },
     "2444f926": {
         "name": "よくばり_月乃",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Music:よくばり 月乃",
+            "Motion:づなうじ"
+        ],
+        "updated": "2026-01-26"
     },
     "1300bfe0": {
         "name": "カメレオン_ねね",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:づなうじ/ノン"
+        ],
+        "updated": "2026-01-26"
     },
     "7cb5c182": {
         "name": "シンデレラ_miku",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:Ponx_迫奈熏"
+        ],
+        "updated": "2026-01-26"
     },
     "016521ca": {
         "name": "スターナイトスノウ_miku",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:わた様/moka様"
+        ],
+        "updated": "2026-01-26"
     },
     "463bdcbc": {
         "name": "ドラマツルギー_Leoneed",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:Moka"
+        ],
+        "updated": "2026-01-26"
     },
     "d417cb64": {
         "name": "ハッピーシンセサイザ_鹿乃",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:mori/はっち"
+        ],
+        "updated": "2026-01-26"
     },
     "d2c47093": {
         "name": "ファンサ_夏川椎菜",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Music:ファンサ",
+            "Motion:づなうじ"
+        ],
+        "updated": "2026-01-26"
     },
     "a5a74106": {
         "name": "プラネテス_しほ",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:づなうじ/のん"
+        ],
+        "updated": "2026-01-26"
     },
     "2caba53e": {
         "name": "ラビットホール_kano",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Music: RabbitHole kano ver.",
+            "Motion:づなうじ"
+        ],
+        "updated": "2026-01-26"
     },
     "c2f60232": {
         "name": "ヴァンパイア_kano",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Music:ヴァンパイア kano ver.",
+            "Motion:たこはちP/ノン"
+        ],
+        "updated": "2026-01-26"
     },
     "f31a0901": {
         "name": "世界は恋に落ちている_Chico",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:030Nyan"
+        ],
+        "updated": "2026-01-26"
     },
     "35650333": {
         "name": "东京夏日相会_Chico",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-24"
+        "credits": [
+            "Music:東京サマーセッション 鎖那/Chico ver.",
+            "Motion:NatsumiSan"
+        ],
+        "updated": "2026-01-26"
     },
     "a82829f8": {
         "name": "云月谣_兰音Reine",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-24"
+        "credits": [
+            "Motion:兰音Reine/再肝剁手"
+        ],
+        "updated": "2026-01-26"
     },
     "ea34f9db": {
         "name": "劣等上等_Reol",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:天満屋"
+        ],
+        "updated": "2026-01-26"
     },
     "8120abed": {
         "name": "可愛くなれたらいいのに_HoneyWorks",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-25"
+        "credits": [
+            "Motion:むぎ"
+        ],
+        "updated": "2026-01-26"
     },
     "eb8a749b": {
         "name": "地球最後の告白を_鹿乃",
         "author": "tanito",
-        "credits": [],
-        "updated": "2026-01-24"
+        "credits": [
+            "Motion:グレイ/よぴ"
+        ],
+        "updated": "2026-01-26"
     },
     "afc1f8cb": {
         "name": "夏恋花火_chano",

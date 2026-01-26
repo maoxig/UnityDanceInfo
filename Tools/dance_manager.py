@@ -6,17 +6,23 @@ import tkinter as tk
 import urllib.request
 import urllib.error
 import subprocess
+import webbrowser
+import time
+import ssl
 from pathlib import Path
 from datetime import datetime
-from tkinter import ttk, messagebox, filedialog
+from tkinter import ttk, messagebox, filedialog, simpledialog
 
 # ---------------------------------------------------------
 # CONFIGURATION
 # ---------------------------------------------------------
 
-CLOUD_URLS = [
-    "https://maoxig.github.io/UnityDanceInfo/DanceInfo/dances.json",
-    "https://unitydanceinfo.pages.dev/DanceInfo/dances.json"
+# The endpoint for uploading/syncing (User specific, implemented via Cloudflare Worker ideally)
+UPLOAD_ENDPOINT = "https://dance-uploader.xenophn.workers.dev" 
+
+CLOUD_URLS = [ 
+    "https://unitydanceinfo.pages.dev/DanceInfo/dances.json",
+    "https://maoxig.github.io/UnityDanceInfo/DanceInfo/dances.json"
 ]
 
 # ---------------------------------------------------------
@@ -119,15 +125,62 @@ class DanceManagerBackend:
         return self.inventory, new_count
 
     def fetch_cloud_db(self):
-        """Fetch DB from cloud mirrors."""
+        """Fetch DB from cloud mirrors with improved stability."""
+        ctx = ssl.create_default_context()
+        # Fallback for some systems with old certs, though we try to stay secure
+        try:
+            ctx.check_hostname = True
+            ctx.verify_mode = ssl.CERT_REQUIRED
+        except:
+            pass
+
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) DanceManager/1.0"
+        }
+
         for url in CLOUD_URLS:
-            try:
-                with urllib.request.urlopen(url, timeout=5) as response:
-                    if response.status == 200:
-                        return json.loads(response.read().decode('utf-8'))
-            except Exception as e:
-                print(f"Fetch failed for {url}: {e}")
+            for attempt in range(3):
+                try:
+                    req = urllib.request.Request(url, headers=headers)
+                    with urllib.request.urlopen(req, timeout=10, context=ctx) as response:
+                        if response.status == 200:
+                            return json.loads(response.read().decode('utf-8'))
+                except Exception as e:
+                    print(f"Fetch failed for {url} (Attempt {attempt+1}): {e}")
+                    time.sleep(1)
         return None
+
+    def upload_to_cloud(self, username, upload_url):
+        """
+        Uploads the current local DB to a compatible worker/server.
+        Expected Server Logic: Receive JSON {username, timestamp, content}, save to storage.
+        """
+        if not upload_url:
+            return False, "Upload URL is not configured (See UPLOAD_ENDPOINT in code)."
+        
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        
+        payload = {
+            "username": username,
+            "timestamp": timestamp,
+            "filename": "dances.json",
+            "content": self.db_data
+        }
+        
+        try:
+            json_bytes = json.dumps(payload).encode('utf-8')
+            req = urllib.request.Request(upload_url, data=json_bytes, method='POST')
+            req.add_header('Content-Type', 'application/json')
+            req.add_header('User-Agent', 'DanceManager/1.0')
+            
+            ctx = ssl.create_default_context()
+            with urllib.request.urlopen(req, timeout=30, context=ctx) as response:
+                if 200 <= response.status < 300:
+                    return True, "Upload successful!"
+                else:
+                    return False, f"Server returned status: {response.status}\n{response.read().decode()}"
+        except Exception as e:
+            return False, f"Upload error: {e}"
 
     def calculate_cloud_diffs(self, cloud_data):
         """
@@ -370,6 +423,9 @@ class DanceManagerApp:
         
         self.btn_cloud = ttk.Button(toolbar, text="☁ Check Cloud", command=self.manual_cloud_check)
         self.btn_cloud.pack(side="left", padx=2)
+
+        ttk.Button(toolbar, text="🌐 Visit Site", command=lambda: webbrowser.open(CLOUD_URLS[0])).pack(side="left", padx=2)
+        ttk.Button(toolbar, text="⬆ Upload", command=self.on_upload_click).pack(side="left", padx=2)
         
         ttk.Label(toolbar, text="Search(Name/Author):").pack(side="left", padx=(15, 5))
         self.var_search = tk.StringVar()
@@ -548,6 +604,36 @@ class DanceManagerApp:
         self.backend.merge_cloud_item(h, cloud_item)
         self.backend.save_db()
         self.refresh_list() # Refresh list to show new names
+
+    def on_upload_click(self):
+        username = simpledialog.askstring("Upload", "Enter your Contributor Name (Alpha-Numeric only):")
+        if not username: return
+        
+        # Basic validation
+        username = "".join(x for x in username if x.isalnum() or x in ('-', '_'))
+        
+        if not UPLOAD_ENDPOINT:
+             if messagebox.askyesno("Setup", "Upload endpoint is not set. Would you like to open the configuration in browser?"):
+                 webbrowser.open("https://unitydanceinfo.pages.dev") 
+             return
+
+        self.btn_cloud.config(state="disabled") # Quick disable
+        self.log(f"Uploading as {username}...")
+        
+        def _worker():
+            success, msg = self.backend.upload_to_cloud(username, UPLOAD_ENDPOINT)
+            self.root.after(0, lambda: self._on_upload_done(success, msg))
+            
+        threading.Thread(target=_worker, daemon=True).start()
+
+    def _on_upload_done(self, success, msg):
+        self.btn_cloud.config(state="normal")
+        self.log("Ready")
+        
+        if success:
+            messagebox.showinfo("Success", "Upload Complete!\nThank you for contributing.")
+        else:
+            messagebox.showerror("Upload Failed", f"Error: {msg}")
 
     # --- UI Logic ---
 
