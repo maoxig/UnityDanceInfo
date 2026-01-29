@@ -267,6 +267,18 @@
         ],
         "updated": "2026-01-24"
     },
+    "470c2a56": {
+        "name": "MMD-DreaminChuchu",
+        "author": "Xenophon",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "0c52b0f2": {
+        "name": "MMD-DreaminChuchu-Kano",
+        "author": "Xenophon",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
     "8f672996": {
         "name": "MMD-DropPopCandy-1",
         "author": "Xenophon",
@@ -348,6 +360,24 @@
             "Camera:DG-RINER"
         ],
         "updated": "2026-01-24"
+    },
+    "0ed691d8": {
+        "name": "MMD-III-Kobo",
+        "author": "Xenophon",
+        "credits": [
+            "Motion:Hololive Production/絢姫/Kaede_kazuha",
+            "Camera:Kaede_kazuha"
+        ],
+        "updated": "2026-01-30"
+    },
+    "0b69383b": {
+        "name": "MMD-III-Marine",
+        "author": "Xenophon",
+        "credits": [
+            "Motion:Hololive Production/絢姫/Kaede_kazuha",
+            "Camera:Kaede_kazuha"
+        ],
+        "updated": "2026-01-30"
     },
     "3429e332": {
         "name": "MMD-INTERGALACTIA",
@@ -942,26 +972,6 @@
         ],
         "updated": "2026-01-24"
     },
-    "9a80d526": {
-        "name": "MMD-愛言葉",
-        "author": "Xenophon",
-        "credits": [
-            "Music:DECO*27-愛言葉feat.初音ミク",
-            "Motion:SEGA/Seto/Minmode",
-            "Camera:SEGA/Sakuyo/Banitron"
-        ],
-        "updated": "2026-01-25"
-    },
-    "7bfd5f5c": {
-        "name": "MMD-愛言葉Ⅱ",
-        "author": "Xenophon",
-        "credits": [
-            "Choreography:足太ぺんた",
-            "Motion:yukariko",
-            "Camera:yukariko"
-        ],
-        "updated": "2026-01-25"
-    },
     "39f843ad": {
         "name": "MMD-我的悲伤是水做的",
         "author": "Xenophon",
@@ -1212,6 +1222,12 @@
             "Camera:Mizuha"
         ],
         "updated": "2026-01-24"
+    },
+    "af453080": {
+        "name": "MMD-Failure Girl",
+        "author": "Yongqisang",
+        "credits": [],
+        "updated": "2026-01-30"
     },
     "5ff1acee": {
         "name": "MMD-GETCHA!",
@@ -2335,6 +2351,71 @@
         ],
         "updated": "2026-01-26"
     },
+    "a63551d5": {
+        "name": "MMD-DreamsComeTrue",
+        "author": "tanito&Xenophon",
+        "credits": [
+            "Motion:NatsumiSan",
+            "Camera:ARonisc/Dn_P"
+        ],
+        "updated": "2026-01-30"
+    },
+    "1efed053": {
+        "name": "MMD-Glow",
+        "author": "tanito&Xenophon",
+        "credits": [
+            "Motion:Sega/Seto/Minmode",
+            "Camera:Sega/Seto/Minmode"
+        ],
+        "updated": "2026-01-28"
+    },
+    "9a80d526": {
+        "name": "MMD-愛言葉",
+        "author": "tanito&Xenophon",
+        "credits": [
+            "Music:DECO*27-愛言葉feat.初音ミク",
+            "Motion:SEGA/Seto/Minmode",
+            "Camera:SEGA/Sakuyo/Banitron"
+        ],
+        "updated": "2026-01-30"
+    },
+    "7bfd5f5c": {
+        "name": "MMD-愛言葉Ⅱ",
+        "author": "tanito&Xenophon",
+        "credits": [
+            "Choreography:足太ぺんた",
+            "Motion:yukariko",
+            "Camera:yukariko"
+        ],
+        "updated": "2026-01-30"
+    },
+    "7c0f51b8": {
+        "name": "MMD-愛言葉Ⅲ",
+        "author": "tanito&Xenophon",
+        "credits": [
+            "Motion:盗賊@つばきP",
+            "Camera:予沉"
+        ],
+        "updated": "2026-01-30"
+    },
+    "f701773b": {
+        "name": "MMD-愛言葉Ⅳ",
+        "author": "tanito&Xenophon",
+        "credits": [
+            "Motion:たこはちＰ",
+            "Camera:ぎょぎょ"
+        ],
+        "updated": "2026-01-30"
+    },
+    "41bd6289": {
+        "name": "Motion-DoodleDance",
+        "author": "tanito&Xenophon",
+        "credits": [
+            "Music:Zachz Winner",
+            "Motion:NHQ 様"
+        ],
+        "updated": "2026-01-28"
+    },
     "de645e39": {
         "name": "camera butt dance",
         "author": "wdsa",
@@ -2869,6 +2950,12 @@
         ],
         "updated": "2026-01-26"
     },
+    "73d3b6ba": {
+        "name": "Dance Moves",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
+    },
     "29b78572": {
         "name": "Dancin' Domino",
         "author": "安卓喵",
@@ -2925,6 +3012,18 @@
         ],
         "updated": "2026-01-26"
     },
+    "11e67625": {
+        "name": "Flippin' Sexy",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
+    },
+    "93677f5d": {
+        "name": "Floss",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
+    },
     "fb5db0f2": {
         "name": "Forget me not",
         "author": "安卓喵",
@@ -2932,6 +3031,12 @@
             "Motion: Fortnite/安卓喵"
         ],
         "updated": "2026-01-26"
+    },
+    "f93554ae": {
+        "name": "Fresh",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
     },
     "ee893be1": {
         "name": "Frolic",
@@ -2948,6 +3053,12 @@
             "Motion: Fortnite/安卓喵"
         ],
         "updated": "2026-01-26"
+    },
+    "2189f904": {
+        "name": "Glitter",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
     },
     "863437fc": {
         "name": "Glitter",
@@ -2997,6 +3108,12 @@
         ],
         "updated": "2026-01-26"
     },
+    "dbcf0dde": {
+        "name": "Miku Live",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
+    },
     "e6ddbd96": {
         "name": "Miku Miku Beam",
         "author": "安卓喵",
@@ -3005,6 +3122,12 @@
         ],
         "updated": "2026-01-26"
     },
+    "9f453ba9": {
+        "name": "Never Gonna",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
+    },
     "6445ecc5": {
         "name": "No Cure",
         "author": "安卓喵",
@@ -3012,6 +3135,12 @@
             "Motion: Fortnite/安卓喵"
         ],
         "updated": "2026-01-26"
+    },
+    "a55e1cee": {
+        "name": "No Sweat",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
     },
     "8d6913bf": {
         "name": "Rain Check",
@@ -3044,6 +3173,12 @@
             "Motion: Fortnite/安卓喵"
         ],
         "updated": "2026-01-26"
+    },
+    "6e47a1b0": {
+        "name": "Slow Clap",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
     },
     "54881640": {
         "name": "Squat Kick",
@@ -3101,6 +3236,18 @@
         ],
         "updated": "2026-01-26"
     },
+    "d3bf064c": {
+        "name": "True Heart",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
+    },
+    "2e2843b8": {
+        "name": "Windmill Floss",
+        "author": "安卓喵",
+        "credits": [],
+        "updated": "2026-01-28"
+    },
     "308a7487": {
         "name": "bad guy",
         "author": "安卓喵",
@@ -3108,5 +3255,167 @@
             "Motion: Fortnite/安卓喵"
         ],
         "updated": "2026-01-26"
+    },
+    "e3d5756f": {
+        "name": "FREELY_TOMORROW",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "d8ed3963": {
+        "name": "Nee_1",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "b5e552e4": {
+        "name": "Nee_2",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "c16abadf": {
+        "name": "Nee_3",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "466259ee": {
+        "name": "girls",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "6cc729fa": {
+        "name": "ia_higher",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "0c461f52": {
+        "name": "lap tap love",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "adba9471": {
+        "name": "prism heart",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "d5cc9ccf": {
+        "name": "カゲロウデイズ(阳炎眩乱)",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "62ae6edd": {
+        "name": "カトラリー(餐具)",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "f24acadd": {
+        "name": "ダダダダ天使",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "1970-01-01"
+    },
+    "e5963253": {
+        "name": "テオ(将手)",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "79843a08": {
+        "name": "ヒガン(彼岸)",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "19ca241e": {
+        "name": "ベノム(猛毒)",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "29bd793b": {
+        "name": "僕らの街に愛が降る夜だ",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "a3b1fd4b": {
+        "name": "前辈-by 呆喵挠琴",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "706ce3c5": {
+        "name": "帝国少女",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "02bd6b5c": {
+        "name": "恋爱循环",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "a462a78c": {
+        "name": "桃花旗袍",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "85172b37": {
+        "name": "病名は愛だった",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "4f37a522": {
+        "name": "瘾者之夜城镇乐队",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "93110e68": {
+        "name": "神のまにまに(右)",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "f8e26dec": {
+        "name": "神のまにまに(左)",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "0d5cb49d": {
+        "name": "絶対絶命",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "25373f9b": {
+        "name": "自傷無色モーションv926",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "4cbbb8e7": {
+        "name": "蜘蛛糸モノポリー",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
+    },
+    "85d96bc8": {
+        "name": "蜜月アン ドゥ トロワ",
+        "author": "散歩猫",
+        "credits": [],
+        "updated": "2026-01-30"
     }
 }
