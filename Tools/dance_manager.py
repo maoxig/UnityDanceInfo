@@ -76,8 +76,14 @@ class DanceManagerBackend:
                 if 'comment' in self.db_data[k] and not self.db_data[k]['comment']:
                     del self.db_data[k]['comment']
 
+            # Sort the dances by author, then by name, then by hash
+            sorted_dances = dict(sorted(
+                self.db_data.items(),
+                key=lambda item: (item[1]['author'], item[1]['name'], item[0])
+            ))
+
             with open(self.db_file, "w", encoding="utf-8") as f:
-                json.dump(self.db_data, f, ensure_ascii=False, indent=4)
+                json.dump(sorted_dances, f, ensure_ascii=False, indent=4)
             return True
         except Exception as e:
             print(f"Error saving DB: {e}")
@@ -464,12 +470,33 @@ class DanceManagerApp:
         right_frame = ttk.Frame(paned)
         paned.add(right_frame, weight=1)
         
+        self.setup_summary(right_frame)
         self.setup_editor(right_frame)
         
         # Status
         self.progress = ttk.Progressbar(self.root, mode="indeterminate")
         self.lbl_status = ttk.Label(self.root, text="Ready", relief="sunken", anchor="w")
         self.lbl_status.pack(side="bottom", fill="x")
+
+    def setup_summary(self, parent):
+        frame = ttk.Labelframe(parent, text="Overview", padding=10)
+        frame.pack(fill="x", padx=5, pady=5)
+        
+        self.lbl_summary_total = ttk.Label(frame, text="Total Dances: 0")
+        self.lbl_summary_total.pack(anchor="w")
+        
+        self.lbl_summary_authors = ttk.Label(frame, text="Total Authors: 0")
+        self.lbl_summary_authors.pack(anchor="w")
+
+    def update_summary(self):
+        total = len(self.backend.db_data)
+        authors = set()
+        for v in self.backend.db_data.values():
+            if v.get('author'):
+                authors.add(v['author'])
+        
+        self.lbl_summary_total.config(text=f"Total Dances: {total}")
+        self.lbl_summary_authors.config(text=f"Total Authors: {len(authors)}")
 
     def setup_editor(self, parent):
         frame = ttk.Labelframe(parent, text="Item Details", padding=10)
@@ -638,6 +665,7 @@ class DanceManagerApp:
     # --- UI Logic ---
 
     def refresh_list(self):
+        self.update_summary()
         # Save selection
         sel = self.selected_hashes
         
@@ -763,21 +791,35 @@ class DanceManagerApp:
         
         for h in hashes:
             data = self.backend.db_data[h]
+            has_changed = False
             
             if not is_batch:
-                data['name'] = new_name
+                if data.get('name') != new_name:
+                    data['name'] = new_name
+                    has_changed = True
             
-            if new_auth: data['author'] = new_auth
-            if not skip_cred: data['credits'] = [x for x in new_cred if x]
+            if new_auth and data.get('author') != new_auth: 
+                data['author'] = new_auth
+                has_changed = True
+
+            if not skip_cred: 
+                clean_cred = [x for x in new_cred if x]
+                if data.get('credits') != clean_cred:
+                    data['credits'] = clean_cred
+                    has_changed = True
             
             # Optimized comment storage: Don't save empty string
             if not skip_comm: 
-                if new_comm:
-                    data['comment'] = new_comm
-                else:
-                    data.pop('comment', None)
+                current_comm = data.get('comment', '')
+                if new_comm != current_comm:
+                    if new_comm:
+                        data['comment'] = new_comm
+                    else:
+                        data.pop('comment', None)
+                    has_changed = True
             
-            data['updated'] = datetime.now().strftime("%Y-%m-%d")
+            if has_changed:
+                data['updated'] = datetime.now().strftime("%Y-%m-%d")
             
         self.backend.save_db()
         self.refresh_list()
