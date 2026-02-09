@@ -129,15 +129,6 @@
         "credits": [],
         "updated": "2026-01-24"
     },
-    "01e652e1": {
-        "name": "MMD-Cherry Pop",
-        "author": "VOCALOID",
-        "credits": [
-            "Motion:デュラン",
-            "Camera:かごるま(仮)"
-        ],
-        "updated": "2026-01-24"
-    },
     "21d85dca": {
         "name": "MMD-1_6-OutOfTheGravity",
         "author": "Xenophon",
@@ -1138,6 +1129,15 @@
             "Camera:ひな"
         ],
         "updated": "2026-01-24"
+    },
+    "01e652e1": {
+        "name": "MMD-Cherry Pop",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:デュラン",
+            "Camera:かごるま(仮)"
+        ],
+        "updated": "2026-02-09"
     },
     "841d4301": {
         "name": "MMD-Cinema",
@@ -2434,6 +2434,12 @@
         "credits": [],
         "updated": "2026-01-24"
     },
+    "d6de3924": {
+        "name": "camera exid - ddd",
+        "author": "wdsa",
+        "credits": [],
+        "updated": "2026-02-10"
+    },
     "442de7c6": {
         "name": "camera full body",
         "author": "wdsa",
@@ -2476,6 +2482,12 @@
         "credits": [],
         "updated": "2026-01-24"
     },
+    "0ea559cc": {
+        "name": "camera konkonお招きダンス",
+        "author": "wdsa",
+        "credits": [],
+        "updated": "2026-02-10"
+    },
     "a5e1b2e2": {
         "name": "camera mememe",
         "author": "wdsa",
@@ -2512,6 +2524,24 @@
         "credits": [],
         "updated": "2026-01-24"
     },
+    "5e5fb800": {
+        "name": "camera sua cara",
+        "author": "wdsa",
+        "credits": [],
+        "updated": "2026-02-10"
+    },
+    "09e72075": {
+        "name": "camera yes or yes",
+        "author": "wdsa",
+        "credits": [],
+        "updated": "2026-02-10"
+    },
+    "309488ae": {
+        "name": "camera ほるろっくダンス",
+        "author": "wdsa",
+        "credits": [],
+        "updated": "2026-02-10"
+    },
     "d080ea3c": {
         "name": "camera れベンチマークダンス",
         "author": "wdsa",
@@ -2530,11 +2560,23 @@
         "credits": [],
         "updated": "2026-01-24"
     },
+    "a3f9e6f2": {
+        "name": "camera 剣聖ダンス",
+        "author": "wdsa",
+        "credits": [],
+        "updated": "2026-02-10"
+    },
     "f75ca2d0": {
         "name": "camera 堂々運動するだけ",
         "author": "wdsa",
         "credits": [],
         "updated": "2026-01-24"
+    },
+    "e94ee46e": {
+        "name": "camera 教えてアゲル",
+        "author": "wdsa",
+        "credits": [],
+        "updated": "2026-02-10"
     },
     "0fb7cb04": {
         "name": "camera 極楽浄土ex",
@@ -2547,6 +2589,12 @@
         "author": "wdsa",
         "credits": [],
         "updated": "2026-01-24"
+    },
+    "a56c30e1": {
+        "name": "camera 見て見てえちちダンス",
+        "author": "wdsa",
+        "credits": [],
+        "updated": "2026-02-10"
     },
     "4c19f020": {
         "name": "camera 魅惑ヒップダンスモーション＆カメラ",
