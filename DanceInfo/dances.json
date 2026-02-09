@@ -972,6 +972,15 @@
         ],
         "updated": "2026-01-24"
     },
+    "7c0f51b8": {
+        "name": "MMD-愛言葉Ⅲ",
+        "author": "Xenophon",
+        "credits": [
+            "Motion:盗賊@つばきP",
+            "Camera:予沉"
+        ],
+        "updated": "2026-01-30"
+    },
     "39f843ad": {
         "name": "MMD-我的悲伤是水做的",
         "author": "Xenophon",
@@ -1033,6 +1042,12 @@
             "Camera:鬼瞳様"
         ],
         "updated": "2026-01-24"
+    },
+    "3038c48b": {
+        "name": "Motion-DoodleDance",
+        "author": "Xenophon",
+        "credits": [],
+        "updated": "2026-01-28"
     },
     "03a9c690": {
         "name": "Motion-DualCombat-Ayano",
@@ -2389,15 +2404,6 @@
         ],
         "updated": "2026-01-30"
     },
-    "7c0f51b8": {
-        "name": "MMD-愛言葉Ⅲ",
-        "author": "tanito&Xenophon",
-        "credits": [
-            "Motion:盗賊@つばきP",
-            "Camera:予沉"
-        ],
-        "updated": "2026-01-30"
-    },
     "f701773b": {
         "name": "MMD-愛言葉Ⅳ",
         "author": "tanito&Xenophon",
@@ -2893,7 +2899,7 @@
             "Motion:だんぶち",
             "Camera:ゆきねこ"
         ],
-        "updated": "2026-01-26"
+        "updated": "2026-01-30"
     },
     "d92d7d99": {
         "name": "Camera 牵丝戏",
@@ -2902,7 +2908,7 @@
             "Motion:不吉利的猫/呆喵挠琴",
             "Camera:呆喵挠琴"
         ],
-        "updated": "2026-01-26"
+        "updated": "2026-01-30"
     },
     "f9fea1a7": {
         "name": "Camera 腰振りダンス2020instillation",
@@ -3260,13 +3266,13 @@
         "name": "FREELY_TOMORROW",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "d8ed3963": {
         "name": "Nee_1",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "b5e552e4": {
         "name": "Nee_2",
@@ -3284,43 +3290,43 @@
         "name": "girls",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "6cc729fa": {
         "name": "ia_higher",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "0c461f52": {
         "name": "lap tap love",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "adba9471": {
         "name": "prism heart",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "d5cc9ccf": {
         "name": "カゲロウデイズ(阳炎眩乱)",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "62ae6edd": {
         "name": "カトラリー(餐具)",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "f24acadd": {
         "name": "ダダダダ天使",
         "author": "散歩猫",
         "credits": [],
-        "updated": "1970-01-01"
+        "updated": "2026-02-09"
     },
     "e5963253": {
         "name": "テオ(将手)",
