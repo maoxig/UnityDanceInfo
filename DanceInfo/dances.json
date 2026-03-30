@@ -963,15 +963,6 @@
         ],
         "updated": "2026-01-24"
     },
-    "7c0f51b8": {
-        "name": "MMD-愛言葉Ⅲ",
-        "author": "Xenophon",
-        "credits": [
-            "Motion:盗賊@つばきP",
-            "Camera:予沉"
-        ],
-        "updated": "2026-01-30"
-    },
     "39f843ad": {
         "name": "MMD-我的悲伤是水做的",
         "author": "Xenophon",
@@ -1067,6 +1058,15 @@
         ],
         "updated": "2026-01-24"
     },
+    "05005943": {
+        "name": "MMD-39 Music!",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:ない",
+            "Camera:ない"
+        ],
+        "updated": "2026-03-30"
+    },
     "0be15707": {
         "name": "MMD-Ageage Again",
         "author": "Yongqisang",
@@ -1129,6 +1129,24 @@
             "Camera:ひな"
         ],
         "updated": "2026-01-24"
+    },
+    "34dfd6b1": {
+        "name": "MMD-Chatter Chatter-Hoshimachi",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:Hololive",
+            "Camera:TK MMD"
+        ],
+        "updated": "2026-03-30"
+    },
+    "9f231bc9": {
+        "name": "MMD-Chatter Chatter-Marina",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:Hololive",
+            "Camera:TK MMD"
+        ],
+        "updated": "2026-03-30"
     },
     "01e652e1": {
         "name": "MMD-Cherry Pop",
@@ -1220,6 +1238,15 @@
         ],
         "updated": "2026-01-24"
     },
+    "9a2dd487": {
+        "name": "MMD-Dramaturgy",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:moka",
+            "Camera:ikurael"
+        ],
+        "updated": "2026-03-30"
+    },
     "559577d3": {
         "name": "MMD-ECHO",
         "author": "Yongqisang",
@@ -1237,6 +1264,15 @@
             "Camera:Mizuha"
         ],
         "updated": "2026-01-24"
+    },
+    "84225781": {
+        "name": "MMD-FREELY TOMORROW",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:SAUGU",
+            "Camera:黎雨沫曦"
+        ],
+        "updated": "2026-03-30"
     },
     "af453080": {
         "name": "MMD-Failure Girl",
@@ -1324,6 +1360,24 @@
             "Camera:妮谷丹"
         ],
         "updated": "2026-01-24"
+    },
+    "4ff8ac84": {
+        "name": "MMD-III-Marine",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:Hololive/请叫我宅女-",
+            "Camera:森林クジラ"
+        ],
+        "updated": "2026-03-30"
+    },
+    "9c856437": {
+        "name": "MMD-III-kobo",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:Hololive/请叫我宅女-",
+            "Camera:森林クジラ"
+        ],
+        "updated": "2026-03-30"
     },
     "38c4235b": {
         "name": "MMD-JUMP UP",
@@ -1504,6 +1558,24 @@
             "Camera:たらど"
         ],
         "updated": "2026-01-24"
+    },
+    "65d5a4e3": {
+        "name": "MMD-Mosaic Roll",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:あひる",
+            "Camera:九方闕行"
+        ],
+        "updated": "2026-03-30"
+    },
+    "5d6deccb": {
+        "name": "MMD-Mosaic Roll(Reloaded)",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:kaz",
+            "Camera:ひゅぺる"
+        ],
+        "updated": "2026-03-30"
     },
     "bb46376c": {
         "name": "MMD-Non-breath oblige",
@@ -1797,6 +1869,15 @@
         ],
         "updated": "2026-01-24"
     },
+    "7c7426d9": {
+        "name": "MMD-唱",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:づなうじ/ノン/ひな",
+            "Camera:水瀬ミナ"
+        ],
+        "updated": "2026-03-30"
+    },
     "224354cf": {
         "name": "MMD-好き！雪！本気マジック",
         "author": "Yongqisang",
@@ -1823,6 +1904,15 @@
             "Camera:Nikisa San"
         ],
         "updated": "2026-01-24"
+    },
+    "0c27271c": {
+        "name": "MMD-炉心融解",
+        "author": "Yongqisang",
+        "credits": [
+            "Motion:Seto",
+            "Camera:Seto"
+        ],
+        "updated": "2026-03-30"
     },
     "ea7601a1": {
         "name": "MMD-砂の惑星",
@@ -2401,6 +2491,15 @@
             "Choreography:足太ぺんた",
             "Motion:yukariko",
             "Camera:yukariko"
+        ],
+        "updated": "2026-01-30"
+    },
+    "7c0f51b8": {
+        "name": "MMD-愛言葉Ⅲ",
+        "author": "tanito&Xenophon",
+        "credits": [
+            "Motion:盗賊@つばきP",
+            "Camera:予沉"
         ],
         "updated": "2026-01-30"
     },
